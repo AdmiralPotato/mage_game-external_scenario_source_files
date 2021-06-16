@@ -1,0 +1,14 @@
+{
+	"scriptPaths": [
+		"scripts/script-main.json"
+	],
+	"dialogPaths": [
+		"dialog/dialog-main.json"
+	],
+	"maps": {
+		"main": "maps/map-main.json"
+	},
+	"dialogSkins": {
+		"default": "tilesets/tileset-dialog_codec.json"
+	}
+}

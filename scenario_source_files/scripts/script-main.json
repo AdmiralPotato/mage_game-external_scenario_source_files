@@ -1,0 +1,14 @@
+{
+    "main-intreact-trog": [
+        {
+            "action": "SHOW_DIALOG",
+            "dialog": "dialog-main-intreact-trog"
+        }
+    ],
+    "main-intreact-chest": [
+        {
+            "action": "SHOW_DIALOG",
+            "dialog": "dialog-main-intreact-chest"
+        }
+    ]
+}

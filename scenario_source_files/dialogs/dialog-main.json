@@ -1,0 +1,28 @@
+{
+    "dialog-main-intreact-trog": [
+        {
+            "entity": "%SELF%",
+            "alignment": "BOTTOM_LEFT",
+            "messages": [
+                "TROG LIKE ROCK.\nBUT DO ROCK LIKE TROG?\n\nHMM. CHEESE.",
+                "What did you think? Did my 'Convince Humans\nto think we have a low intelligence stat'\ndeception seem any good?"
+            ]
+        },
+        {
+            "entity": "%PLAYER%",
+            "alignment": "BOTTOM_RIGHT",
+            "messages": [
+                "Pretty good man! Keep at it!"
+            ]
+        }
+    ],
+    "dialog-main-intreact-chest": [
+        {
+            "entity": "%SELF%",
+            "alignment": "BOTTOM_LEFT",
+            "messages": [
+                "ITEM GET!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+	"goblin": {
+		"tileset": "portraits-goblin.json",
+		"emotes": {
+			"default": {
+				"tileid": 0,
+				"flip_x": false
+			}
+		}
+	}
+}

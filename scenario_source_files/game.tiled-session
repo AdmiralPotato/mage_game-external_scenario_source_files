@@ -1,0 +1,898 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities",
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps",
+        ".",
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/tilesets"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/action_testing.json": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 496.5,
+                "y": 346.5
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/action_testing_2.json": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 765.8333333333333,
+                "y": 381.5
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-alfonso.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-baby_goat.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-baker.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-bender.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-bender_sadbutt.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-bert.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-blacksmith.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-bling_arrows.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-blitzball.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-bmurray.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-bob.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-bobmoss.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-book.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-bookcase.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-bracelet.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-broom.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-cake.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-cat.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-cleo.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-codec-portrait.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-deut.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-dragon_skull.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-ethernettle.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-exa.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-eye_faerie.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-felix.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-fountain.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-goat.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-goldfish.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-golem.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-goose.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-hamster.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-helga.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-journal.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-lightning_boy.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-lightning_boy2.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-mage.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-marta-broom.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-marta.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-maru.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-modem.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-null.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-old_lady.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-old_man.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-pipscat.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-pot.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-rabbit.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-rake.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-save_floppy.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-sheep.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-sports_kid.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-ssen.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-strong_bad.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-tailor.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-trekkie.json": {
+            "scaleInDock": 5.5,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-verthandi.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-village_elder.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-wand.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entities/entity-yabbo_mongo.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entity-alfonso.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entity-baby_goat.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entity-baker.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entity-bert.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entity-blacksmith.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entity-bling_arrows.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entity-cat.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entity-cleo.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entity-dragon_skull.json": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entity-exa.json": {
+            "scaleInDock": 5.5,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entity-eye_faerie.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entity-goat.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entity-golem.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entity-goose.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entity-lightning_boy.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entity-lightning_boy_cyan.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entity-mage.json": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entity-marta.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entity-old_lady.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entity-old_man.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entity-sheep.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entity-sports_kid.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entity-ssen.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entity-tailor.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entity-verthandi.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/entity-village_elder.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/action_testing.json": {
+            "scale": 0.5046875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 768.7925696594428,
+                "y": 385.3869969040248
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/action_testing_2.json": {
+            "scale": 0.5046875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 768.7925696594428,
+                "y": 385.3869969040248
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/dungeon_map.json": {
+            "scale": 1.5047851562499999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 256.5150236874554,
+                "y": 256.18275034071
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/dungeon_tiles.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/entity-alfonso.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/entity-baby_goat.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/entity-baker.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/entity-bert.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/entity-blacksmith.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/entity-cat.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/entity-cleo.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/entity-codec-portrait.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/entity-dragon_skull.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/entity-exa.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/entity-eye_faerie.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/entity-goat.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/entity-golem.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/entity-goose.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/entity-lightning_boy.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/entity-mage.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/entity-marta.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/entity-null.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/entity-old_man.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/entity-sports_kid.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/entity-ssen.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/entity-tailor.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/entity-verthandi.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/entity-village_elder.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-16px_dungeon.json": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 171.75,
+                "y": 207.25
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-action_testing.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 376,
+                "y": 366.5
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-action_testing_01.json": {
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 181.66666666666669,
+                "y": 106.33333333333334
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-action_testing_02.json": {
+            "scale": 0.8972222222222221,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 303.71517027863774,
+                "y": 278.08049535603715
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-action_testing_2.json": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 373,
+                "y": 368.5
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-bakery.json": {
+            "scale": 1.3140625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 227.9191438763377,
+                "y": 181.4982164090369
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-bobsclub.json": {
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 324.25,
+                "y": 313.75
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-colllision_64x64.json": {
+            "scale": 0.5946231617647059,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.13602287657477,
+                "y": 507.04382100626015
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-credits.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 295.5,
+                "y": 432.5
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-demo.json": {
+            "scale": 1,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 309.5,
+                "y": 211.5
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-derp.json": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 414,
+                "y": 314
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-dialog_codec.json": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 150.25,
+                "y": 148.25
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-dialog_moon.json": {
+            "scale": 2,
+            "selectedLayer": 17,
+            "viewCenter": {
+                "x": 191.25,
+                "y": 185.75
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-family.json": {
+            "scale": 1.5604492187499999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 256.01602102759875,
+                "y": 128.48864134176108
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-greenhouse.json": {
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 228.75,
+                "y": 110.75
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-hyper_minimal.json": {
+            "scale": 1.3848345588235293,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 262.48622818079247,
+                "y": 294.62003053029804
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-lodge.json": {
+            "scale": 4,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 302.375,
+                "y": 383.625
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-magehouse.json": {
+            "scale": 4,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 687.875,
+                "y": 189.875
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-main.json": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1105.5,
+                "y": 327.5
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-main_menu": {
+            "scale": 2.372301136363636,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 162.5004490749057,
+                "y": 141.00233518950964
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-main_menu.json": {
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 222.33333333333334,
+                "y": 260.33333333333326
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-mini_dungeon.json": {
+            "scale": 1.9630859374999998,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 128.62401751069547,
+                "y": 128.11461546114813
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-oldcouplehouse.json": {
+            "scale": 1.38974609375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 256.52167802684284,
+                "y": 128.4407279881948
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-secretroom.json": {
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 274.25,
+                "y": 215.25
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-sodar.json": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 102,
+                "y": 234.25
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-test.json": {
+            "scale": 2,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 127.75,
+                "y": 113.75
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-test.json#town_tiles": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-testbig.json": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 238.5,
+                "y": 92.5
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-town.json": {
+            "scale": 1.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 490.3333333333333,
+                "y": 623.6666666666666
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-trent.json": {
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 125.5,
+                "y": 175.25
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-warp_zone.json": {
+            "scale": 2,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 423.25,
+                "y": 409.25
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-woprhouse.json": {
+            "scale": 1.38974609375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 258.68034572412336,
+                "y": 165.13807884196473
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/mini_dungeon_map.json": {
+            "scale": 1.9630859374999998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 127.8599144363745,
+                "y": 199.43090239777135
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/numbered_testing_tileset.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/test.json": {
+            "scale": 0.9815429687499999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 256.7386329718436,
+                "y": 256.22923092229627
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/tileset-dc801_bling.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/tileset-main_menu-animation.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/tileset-main_menu-logo.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/town_map.json": {
+            "scale": 0.5015950520833333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 769.5450710623661,
+                "y": 768.54825102213
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/town_tiles.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/numbered_testing_tileset.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/test.json": {
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 226.5,
+                "y": 187.75
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/tilesets/tileset-16px_dungeon.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/tilesets/tileset-colllision_64x64.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/tilesets/tileset-creditwords.json": {
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/tilesets/tileset-dc801_bling.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/tilesets/tileset-dc801_gradient.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/tilesets/tileset-dialog_codec.json": {
+            "scaleInDock": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/tilesets/tileset-dialog_moon.json": {
+            "scaleInDock": 4,
+            "scaleInEditor": 8
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/tilesets/tileset-greenhouse.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/tilesets/tileset-main_menu-animation.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/tilesets/tileset-main_menu-gradient.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/tilesets/tileset-main_menu-logo.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/tilesets/tileset-monstrosity.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/tilesets/tileset-numbered_testing.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/tilesets/tileset-ring_zero.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/tilesets/tileset-sand.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/tilesets/tileset-smile.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/tilesets/tileset-testbig.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/tilesets/tileset-town.json": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/tilesets/tileset-trent_call.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/town_map.json": {
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 534.6666666666666,
+                "y": 729.1666666666666
+            }
+        },
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/town_tiles.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "entities/entity-goblin.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "entities/portrait-goblin.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "maps/map-main.json": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 246.5,
+                "y": 266.5
+            }
+        },
+        "tilesets/tileset-dungon_desert.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "tilesets/tileset-hyptosis_1.json": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        }
+    },
+    "frame.defaultDuration": 150,
+    "last.imagePath": "/home/admiral/Desktop/custom_badge_content/tilesets",
+    "last.objectTypesPath": "/home/admiral/Desktop/custom_badge_content/entities/object_types.json",
+    "map.height": 16,
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 32,
+    "map.tileWidth": 32,
+    "map.width": 16,
+    "openFiles": [
+    ],
+    "project": "game.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "tilesets/tileset-dungon_desert.json",
+        "entities/entity-goblin.json",
+        "entities/portrait-goblin.json",
+        "maps/map-main.json",
+        "tilesets/tileset-hyptosis_1.json",
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-main_menu.json",
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-testbig.json",
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-test.json",
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-town.json",
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-secretroom.json",
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-oldcouplehouse.json",
+        "/home/admiral/Desktop/DC28PartyBadge/SD_Card/MAGE/scenario_source_files/maps/map-mini_dungeon.json"
+    ],
+    "resizeMap.removeObjects": false,
+    "tileset.lastUsedFormat": "json",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}

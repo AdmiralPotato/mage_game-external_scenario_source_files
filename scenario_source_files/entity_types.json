@@ -1,0 +1,84 @@
+{
+	"goblin": {
+		"type": "goblin",
+		"tileset": "entity-goblin.json",
+		"animations": {
+			"idle": [
+				{
+					"tileid": 28,
+					"flip_x": false,
+					"flip_y": false
+				},
+				{
+					"tileid": 17,
+					"flip_x": false,
+					"flip_y": false
+				},
+				{
+					"tileid": 6,
+					"flip_x": false,
+					"flip_y": false
+				},
+				{
+					"tileid": 39,
+					"flip_x": false,
+					"flip_y": false
+				}
+			],
+			"walk": [
+				{
+					"tileid": 22,
+					"flip_x": false
+				},
+				{
+					"tileid": 11,
+					"flip_x": false
+				},
+				{
+					"tileid": 0,
+					"flip_x": false
+				},
+				{
+					"tileid": 33,
+					"flip_x": false
+				}
+			],
+			"action": [
+				{
+					"tileid": 29,
+					"flip_x": false
+				},
+				{
+					"tileid": 18,
+					"flip_x": false
+				},
+				{
+					"tileid": 7,
+					"flip_x": false
+				},
+				{
+					"tileid": 40,
+					"flip_x": false
+				}
+			],
+			"special": [
+				{
+					"tileid": 44,
+					"flip_x": false
+				},
+				{
+					"tileid": 44,
+					"flip_x": false
+				},
+				{
+					"tileid": 44,
+					"flip_x": false
+				},
+				{
+					"tileid": 44,
+					"flip_x": false
+				}
+			]
+		}
+	}
+}
