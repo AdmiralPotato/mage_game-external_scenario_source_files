@@ -46,8 +46,8 @@
                  "type":"",
                  "visible":true,
                  "width":64,
-                 "x":183,
-                 "y":237
+                 "x":279,
+                 "y":206
                 }, 
                 {
                  "gid":119,
@@ -68,7 +68,7 @@
                  "y":256
                 }, 
                 {
-                 "gid":40,
+                 "gid":12,
                  "height":65,
                  "id":3,
                  "name":"Trog",
@@ -82,8 +82,8 @@
                  "type":"",
                  "visible":true,
                  "width":65,
-                 "x":274,
-                 "y":249
+                 "x":219,
+                 "y":253
                 }],
          "opacity":1,
          "type":"objectgroup",
